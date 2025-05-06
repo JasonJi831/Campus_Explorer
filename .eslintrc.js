@@ -34,6 +34,7 @@ module.exports = {
 		},
 	],
 	rules: {
+		'no-unused-vars': 'off',
 		// safety rules
 		"@ubccpsc310/descriptive/ban-tslint-comment": "error",
 		"@ubccpsc310/descriptive/no-eval": "error",
