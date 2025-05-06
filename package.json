@@ -6,7 +6,7 @@
 	"private": true,
 	"version": "1.0.0",
 	"engines": {
-		"node": ">= 23 < 24"
+		"node": "22.x"
 	},
 	"dependencies": {
 		"@ubccpsc310/project-support": "^4.0.0",
